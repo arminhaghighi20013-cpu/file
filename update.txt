@@ -15,16 +15,16 @@
     "showcase": {
       "is_active": true,
       "items": [
-        { "id": 1, "is_active": true, "image_url": "https://yourdomain.com/banners/showcase_1.jpg", "action_url": "https://yourdomain.com/promo/1" },
-        { "id": 2, "is_active": true, "image_url": "https://yourdomain.com/banners/showcase_2.jpg", "action_url": "https://yourdomain.com/promo/2" },
-        { "id": 3, "is_active": false, "image_url": "https://yourdomain.com/banners/showcase_3.jpg", "action_url": "https://yourdomain.com/promo/3" }
+        { "id": 1, "is_active": true, "image_url": "https://catalogue.avecci.ir/3.png", "action_url": "https://www.aveccimobilya.ir/" },
+        { "id": 2, "is_active": true, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "https://www.aveccimobilya.ir/" },
+        { "id": 3, "is_active": true, "image_url": "https://catalogue.avecci.ir/1.png", "action_url": "https://www.aveccimobilya.ir/" }
       ]
     },
     "movies": {
       "is_active": true,
       "items": [
-        { "id": 101, "is_active": true, "image_url": "https://yourdomain.com/banners/movie_1.jpg", "action_url": "app://movie/101" },
-        { "id": 102, "is_active": true, "image_url": "https://yourdomain.com/banners/movie_2.jpg", "action_url": "app://movie/102" },
+        { "id": 101, "is_active": true, "image_url": "https://catalogue.avecci.ir/up/IMG_7144.webp", "action_url": "app://movie/101" },
+        { "id": 102, "is_active": true, "image_url": "https://catalogue.avecci.ir/up/IMG_7144.webp", "action_url": "app://movie/102" },
         { "id": 103, "is_active": false, "image_url": "https://yourdomain.com/banners/movie_3.jpg", "action_url": "app://movie/103" },
         { "id": 104, "is_active": true, "image_url": "https://yourdomain.com/banners/movie_4.jpg", "action_url": "app://movie/104" },
         { "id": 105, "is_active": true, "image_url": "https://yourdomain.com/banners/movie_5.jpg", "action_url": "app://movie/105" },
