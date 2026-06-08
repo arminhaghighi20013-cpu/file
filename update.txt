@@ -1,8 +1,8 @@
 {
   "app_update": {
     "is_active": true,
-    "is_force_update": true,
-    "version": "1.1.0",
+    "is_force_update": false,
+    "version": "1.0",
     "version_code": 210,
     "changes": [
       "افزوده شدن حالت تاریک (Dark Mode)",
