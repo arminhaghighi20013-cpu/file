@@ -1,8 +1,8 @@
 {
   "app_update": {
     "is_active": true,
-    "is_force_update": false,
-    "version": "2.1.0",
+    "is_force_update": true,
+    "version": "1.1.0",
     "version_code": 210,
     "changes": [
       "افزوده شدن حالت تاریک (Dark Mode)",
@@ -23,9 +23,9 @@
     "movies": {
       "is_active": true,
       "items": [
-        { "id": 101, "is_active": true, "image_url": "https://catalogue.avecci.ir/up/IMG_7144.webp", "action_url": "app://movie/101" },
-        { "id": 102, "is_active": true, "image_url": "https://catalogue.avecci.ir/up/IMG_7144.webp", "action_url": "app://movie/102" },
-        { "id": 103, "is_active": false, "image_url": "https://yourdomain.com/banners/movie_3.jpg", "action_url": "app://movie/103" },
+        { "id": 101, "is_active": true, "image_url": "https://catalogue.avecci.ir/1.png", "action_url": "app://movie/101" },
+        { "id": 102, "is_active": true, "image_url": "https://catalogue.avecci.ir/1.png", "action_url": "app://movie/102" },
+        { "id": 103, "is_active": false, "image_url": "https://catalogue.avecci.ir/1.png", "action_url": "app://movie/103" },
         { "id": 104, "is_active": true, "image_url": "https://yourdomain.com/banners/movie_4.jpg", "action_url": "app://movie/104" },
         { "id": 105, "is_active": true, "image_url": "https://yourdomain.com/banners/movie_5.jpg", "action_url": "app://movie/105" },
         { "id": 106, "is_active": true, "image_url": "https://yourdomain.com/banners/movie_6.jpg", "action_url": "app://movie/106" }
