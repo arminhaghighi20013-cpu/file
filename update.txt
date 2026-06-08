@@ -3,7 +3,7 @@
     "is_active": true,
     "is_force_update": false,
     "version": "1.0",
-    "version_code": 210,
+    "version_code": 1,
     "changes": [
       "افزوده شدن حالت تاریک (Dark Mode)",
       "بهبود سرعت پخش فیلم و سریال",
