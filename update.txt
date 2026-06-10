@@ -14,9 +14,9 @@
     "showcase": {
       "is_active": true,
       "items": [
-        { "id": 1, "is_active": true, "image_url": "https://vodrbmetacdn3.iranlms.ir/static/1/2024-08-28-23/66cf864b7a66d61bbb8c1962.jpg?width=729", "action_url": "app.filmbaran.ir/34611" },
-        { "id": 2, "is_active": true, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "https://www.aveccimobilya.ir/" },
-        { "id": 3, "is_active": true, "image_url": "https://catalogue.avecci.ir/1.png", "action_url": "https://www.aveccimobilya.ir/" }
+        { "id": 1, "is_active": true, "image_url": "https://cdn.imgurl.ir/uploads/y492750_2.png", "action_url": "app.filmbaran.ir/34635" },
+        { "id": 2, "is_active": true, "image_url": "https://cdn.imgurl.ir/uploads/a931693_1.png", "action_url": "app.filmbaran.ir/34611" },
+        { "id": 3, "is_active": true, "image_url": "https://cdn.imgurl.ir/uploads/f14798_4.png", "action_url": "app.filmbaran.ir/8592" }
       ]
     },
     "movies": {
@@ -46,9 +46,9 @@
     "showcase": {
       "is_active": true,
       "items": [
-        { "id": 1, "is_active": true, "image_url": "https://catalogue.avecci.ir/1.png", "action_url": "https://yourdomain.com/promo/1" },
-        { "id": 2, "is_active": true, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "https://yourdomain.com/promo/2" },
-        { "id": 3, "is_active": true, "image_url": "https://catalogue.avecci.ir/3.png", "action_url": "https://yourdomain.com/promo/3" }
+     { "id": 1, "is_active": true, "image_url": "https://cdn.imgurl.ir/uploads/y492750_2.png", "action_url": "app.filmbaran.ir/34635" },
+        { "id": 2, "is_active": true, "image_url": "https://cdn.imgurl.ir/uploads/a931693_1.png", "action_url": "app.filmbaran.ir/34611" },
+        { "id": 3, "is_active": true, "image_url": "https://cdn.imgurl.ir/uploads/f14798_4.png", "action_url": "app.filmbaran.ir/8592" }
       ]
     },
     "movies": {
