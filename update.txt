@@ -71,6 +71,7 @@
         { "id": 204, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
         { "id": 205, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
         { "id": 206, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" }
+]
     }
   }
 }
