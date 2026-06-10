@@ -22,12 +22,12 @@
     "movies": {
       "is_active": true,
       "items": [
-        { "id": 1, "is_active": true, "image_url": "https://cdn.imgurl.ir/uploads/y492750_2.png", "action_url": "app.filmbaran.ir/34635" },
-        { "id": 102, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://movie/102" },
-        { "id": 103, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://movie/103" },
-        { "id": 104, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://movie/104" },
-        { "id": 105, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://movie/105" },
-        { "id": 106, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://movie/106" }
+        { "id": 101, "is_active": true, "image_url": "https://cdn.imgurl.ir/uploads/y492750_2.png", "action_url": "app.filmbaran.ir/34635" },
+        { "id": 102, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
+        { "id": 103, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
+        { "id": 104, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
+        { "id": 105, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
+        { "id": 106, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" }
       ]
     },
     "series": {
@@ -35,10 +35,10 @@
       "items": [
         { "id": 201, "is_active": true, "image_url": "https://cdn.imgurl.ir/uploads/q560121_3.png", "action_url": "app.filmbaran.ir/8592" },
         { "id": 202, "is_active": true, "image_url": "https://cdn.imgurl.ir/uploads/a931693_1.png", "action_url": "app.filmbaran.ir/34611" },
-        { "id": 203, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://series/203" },
-        { "id": 204, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://series/204" },
-        { "id": 205, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://series/205" },
-        { "id": 206, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://series/206" }
+        { "id": 203, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
+        { "id": 204, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
+        { "id": 205, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
+        { "id": 206, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" }
       ]
     }
   },
@@ -54,12 +54,12 @@
     "movies": {
       "is_active": true,
       "items": [
-              { "id": 1, "is_active": true, "image_url": "https://cdn.imgurl.ir/uploads/y492750_2.png", "action_url": "app.filmbaran.ir/34635" },
-        { "id": 102, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://movie/102" },
-        { "id": 103, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://movie/103" },
-        { "id": 104, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://movie/104" },
-        { "id": 105, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://movie/105" },
-        { "id": 106, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://movie/106" }
+        { "id": 101, "is_active": true, "image_url": "https://cdn.imgurl.ir/uploads/y492750_2.png", "action_url": "app.filmbaran.ir/34635" },
+        { "id": 102, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
+        { "id": 103, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
+        { "id": 104, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
+        { "id": 105, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
+        { "id": 106, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" }
       ]
     },
     "series": {
@@ -67,10 +67,10 @@
       "items": [
         { "id": 201, "is_active": true, "image_url": "https://cdn.imgurl.ir/uploads/q560121_3.png", "action_url": "app.filmbaran.ir/8592" },
         { "id": 202, "is_active": true, "image_url": "https://cdn.imgurl.ir/uploads/a931693_1.png", "action_url": "app.filmbaran.ir/34611" },
-        { "id": 203, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://series/203" },
-        { "id": 204, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://series/204" },
-        { "id": 205, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://series/205" },
-        { "id": 206, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app://series/206" }
+        { "id": 203, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
+        { "id": 204, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
+        { "id": 205, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" },
+        { "id": 206, "is_active": false, "image_url": "https://catalogue.avecci.ir/2.png", "action_url": "app.filmbaran.ir/8592" }
     }
   }
 }
