@@ -3,7 +3,7 @@
     "is_active": true,
     "is_force_update": true,
     "version": "1.1.2",
-    "version_code": 1,
+    "version_code": 2,
     "changes": [
  "1.بهینه سازی جستجو فیلم و سریال  ",
  "2.اضافه شدن جستجو با شناسه فیلم  ",
