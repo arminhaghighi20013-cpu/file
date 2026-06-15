@@ -16,7 +16,7 @@
  "اضافه شدن ادرس کانال تلگرام و اینستاگرام",
  "لینک دانلود از تلگرام برای شما دوستان قرار داده شد"
     ],
-    "download_link": "https://t.me/appfilmbaran"
+    "download_link": "tg://resolve?domain=appfilmbaran"
   },
   "banners_tv": {
     "showcase": {
